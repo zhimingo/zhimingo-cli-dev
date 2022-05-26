@@ -1,0 +1,22 @@
+{
+  "name": "@zhimingo-cli-dev/utils",
+  "version": "1.0.0",
+  "description": "my cli dev utils",
+  "author": "zhimingo <huangzhimingme@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com/"
+  },
+  "scripts": {
+    "test": "echo \"run test from core\""
+  }
+}
