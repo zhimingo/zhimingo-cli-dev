@@ -1,6 +1,6 @@
 {
   "name": "@zhimingo-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "my cli dev core",
   "author": "zhimingo <huangzhimingme@gmail.com>",
   "homepage": "",
@@ -24,6 +24,6 @@
     "test": "echo \"run test from core\""
   },
   "dependencies": {
-    "@zhimingo-cli-dev/utils": "^1.0.0"
+    "@zhimingo-cli-dev/utils": "^1.0.1"
   }
 }
